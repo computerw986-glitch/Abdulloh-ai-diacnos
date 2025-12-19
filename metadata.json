@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Abdulloh AI: Medical Diagnostic Assistant",
+  "description": "An advanced AI assistant for preliminary medical diagnostics. It analyzes symptoms, medical images (MRI, CT, EKG), and lab results to provide diagnoses, treatment strategies, and clinical referrals in over 25 languages.",
+  "requestFramePermissions": []
+}
